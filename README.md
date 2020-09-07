@@ -12,4 +12,4 @@ Clevelend Heart Disease Dataset.
 
 Metrics used : Cross validation accuracy, Sensitivity and Specificity
 
-The model can be improved by using much larger dataset. 
+The model can be improved by using a much larger dataset. 
